@@ -10,7 +10,7 @@ export const SITE = {
   askingPriceLabel: '$7,500',
   locale: 'en_US',
   publishedDate: '2026-08-02',
-  googleSiteVerification: '',
+  googleSiteVerification: 'q56CY406UC7wPzvbR1K4C2zZgfTlzcVzKGe-rULE1wk',
 } as const;
 
 export const HERO_IMAGE = '/hero.jpg';
